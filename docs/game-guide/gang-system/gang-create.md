@@ -2,7 +2,7 @@
 
 ## Gang Create (Registration Certificate)
 
-<figure><img src="../../.gitbook/assets/1773314547247.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1773314547247.gif" alt=""><figcaption></figcaption></figure>
 
 **Required Fields**
 

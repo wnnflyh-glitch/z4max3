@@ -5,7 +5,7 @@
 Some equipment pieces are **Set Items**.\
 When a full set is equipped, players will receive a **Set Bonus**.
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 | Parts   | Bonus                                      |
 | ------- | ------------------------------------------ |

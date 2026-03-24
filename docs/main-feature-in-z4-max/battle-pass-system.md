@@ -38,7 +38,7 @@ Players must exchange these Fragments for:
 
 #### NPC “Franklin (Battle Pass Exchange)”
 
-<p align="center"><img src="../.gitbook/assets/unknown (1).png" alt=""><br></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (1) (1).png" alt=""><br></p>
 
 ### Battle Pass Quest System
 

@@ -7,7 +7,7 @@
 **VIP Activation**\
 Players can access the VIP menu to activate their VIP status.
 
-<figure><img src="../.gitbook/assets/VIP System.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/VIP System.gif" alt=""><figcaption></figcaption></figure>
 
 ```
 EVENT → VIP
@@ -15,7 +15,7 @@ EVENT → VIP
 
 The system will then display the status.
 
-<figure><img src="../.gitbook/assets/image (124).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ```
 You are not a VIP member yet
@@ -23,7 +23,7 @@ You are not a VIP member yet
 
 Players can click **Purchase** to buy VIP.
 
-<figure><img src="../.gitbook/assets/VIP 2.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/VIP 2.gif" alt=""><figcaption></figcaption></figure>
 
 ```
 Purchase

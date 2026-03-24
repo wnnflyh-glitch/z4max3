@@ -26,7 +26,7 @@ Skills can be upgraded from **Level 0 to Level 10**.
 
 From the UI shown:
 
-<figure><img src="../../.gitbook/assets/image (163).png" alt="" width="380"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (163).png" alt="" width="380"><figcaption></figcaption></figure>
 
 Players have a **Skill Inventory**.
 
@@ -63,7 +63,7 @@ Total stat value gained from Skill Upgrades
 
 > Main Combo
 
-<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 Example:
 
@@ -88,7 +88,7 @@ Example:
 
 > Grab
 
-<figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
 Used for:
 
@@ -109,7 +109,7 @@ When a **Hold** is successful, players can:
 
 > Ultimate Skill
 
-<figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
 Has the following characteristics:
 
@@ -126,7 +126,7 @@ TEAM DOUBLE
 
 > Cooperative Skill
 
-<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
 Requires:
 
@@ -143,7 +143,7 @@ On the right side of the UI
 Skills in Possession
 ```
 
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 Players can:
 

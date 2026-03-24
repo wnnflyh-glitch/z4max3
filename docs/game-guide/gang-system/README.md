@@ -1,8 +1,8 @@
 # 🌐 Gang System
 
-## &#x20;![](<../../.gitbook/assets/image (144).png>)Gang Main Page
+## &#x20;![](<../../../.gitbook/assets/image (144).png>)Gang Main Page
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt="" width="434"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (145).png" alt="" width="434"><figcaption></figcaption></figure>
 
 **Info List**
 
@@ -24,7 +24,7 @@
 
 #### Club Introduction
 
-<figure><img src="../../.gitbook/assets/1773374957541.gif" alt="" width="439"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1773374957541.gif" alt="" width="439"><figcaption></figcaption></figure>
 
 * The Gang description or details can be edited.
 
@@ -32,7 +32,7 @@
 
 ## Gang Member
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt="" width="434"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (146).png" alt="" width="434"><figcaption></figcaption></figure>
 
 #### Member Info
 
@@ -116,7 +116,7 @@ Opponent
 
 ## Gang Board
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 Used for:
 
@@ -136,6 +136,6 @@ Start
 
 The number of members can be increased using items
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 * Club Member +1

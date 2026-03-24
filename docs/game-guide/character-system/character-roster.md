@@ -8,7 +8,7 @@ In the current Zone4 system, there are **6 main characters (Base Characters)** t
 
 ### 1. Wells
 
-<figure><img src="../../.gitbook/assets/image (138).png" alt="" width="200"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (138).png" alt="" width="200"><figcaption></figcaption></figure>
 
 **Basic Profile**
 
@@ -34,7 +34,7 @@ Wells is a strong-built young man who appears like a thug, but is actually kind-
 
 ### 2. Ray
 
-<figure><img src="../../.gitbook/assets/image (139).png" alt="" width="200"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (139).png" alt="" width="200"><figcaption></figcaption></figure>
 
 **Basic Profile**
 
@@ -60,7 +60,7 @@ Ray is a cold and disciplined athlete, and a disciple of the legendary fighter R
 
 ### 3. Joony
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt="" width="200"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (140).png" alt="" width="200"><figcaption></figcaption></figure>
 
 **Basic Profile**
 
@@ -86,7 +86,7 @@ Joony is the son of Davark, a genius fighter who once stood alone against the By
 
 ### 4. Lilru
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt="" width="200"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (141).png" alt="" width="200"><figcaption></figcaption></figure>
 
 **Basic Profile**
 
@@ -111,7 +111,7 @@ Lilru is a young chef who runs her own restaurant. She has a crush on Wells, but
 
 ### 5. Nicky
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt="" width="200"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (142).png" alt="" width="200"><figcaption></figcaption></figure>
 
 **Basic Profile**
 
@@ -136,7 +136,7 @@ Nicky is a detective assigned to investigate the secrets behind the FFC that too
 
 ### 6. Sera
 
-<figure><img src="../../.gitbook/assets/image (143).png" alt="" width="200"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (143).png" alt="" width="200"><figcaption></figcaption></figure>
 
 **Basic Profile**
 

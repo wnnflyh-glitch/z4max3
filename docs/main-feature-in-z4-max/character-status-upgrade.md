@@ -69,7 +69,7 @@ Stats are tied to each individual character (not shared across the entire accoun
 **Example:** At Level 40 → Total Points = 1,077 ⇒ Max Stats = 215. This means each sub-stat can be allocated up to a maximum of 215 points at Level 40.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -119,7 +119,7 @@ Point is divided into 2 types.
 
 ### Status Reset
 
-<p align="center"><img src="../.gitbook/assets/unknown (4).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (4).png" alt=""></p>
 
 * Use the **Status Reset item (14,900 DE)** to reset all allocated stats
 * Returning them to available Stat Points based on the total amount owned.

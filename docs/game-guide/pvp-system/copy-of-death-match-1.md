@@ -10,7 +10,7 @@ hidden: true
 
 Team Death Match เป็นโหมดที่ผู้เล่นถูกแบ่งออกเป็นสองทีม
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/1773125983802.gif" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/1773125983802.gif" alt=""><figcaption></figcaption></figure></div>
 
 ```
 Red Team
@@ -62,7 +62,7 @@ Enemy Kill = +1 Team Point
 
 ตัวอย่าง Scoreboard
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/1773126568836.gif" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/1773126568836.gif" alt="" width="563"><figcaption></figcaption></figure></div>
 
 | Team      | Score |
 | --------- | ----- |

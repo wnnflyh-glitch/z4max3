@@ -10,7 +10,7 @@ Players must battle increasingly difficult NPC Fighters as they progress, reachi
 
 ### Entry System <a href="#entry-system" id="entry-system"></a>
 
-<figure><img src="../../.gitbook/assets/2.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2.gif" alt=""><figcaption></figcaption></figure>
 
 #### Entry Condition <a href="#entry-condition" id="entry-condition"></a>
 
@@ -89,7 +89,7 @@ No Recovery Box
 
 Challenge Arcade ใช้ระบบ **Daily Ranking**
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 Ranking is calculated based on:
 
@@ -107,7 +107,7 @@ Ranking resets Weekly
 
 Rewards are based on the stage reached.
 
-<figure><img src="../../.gitbook/assets/image (114).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (114).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Reward Chest Distribution
 

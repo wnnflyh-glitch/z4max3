@@ -19,7 +19,7 @@ In Zone4, item trading can be conducted through the **Player Shop** or the **Squ
 
 **Example tax rates (depending on shop type):**
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td></td><td data-object-fit="contain"><a href="../.gitbook/assets/image (179).png">image (179).png</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../.gitbook/assets/image (180).png">image (180).png</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../.gitbook/assets/image (181).png">image (181).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td></td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (179).png">image (179).png</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (180).png">image (180).png</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (181).png">image (181).png</a></td></tr></tbody></table>
 
 | Shop Type    | Tax Rate |
 | ------------ | -------- |

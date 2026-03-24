@@ -33,7 +33,7 @@ The system will select the **top 16 Gangs with the highest Contribution** to ent
 {% step %}
 **The Gang Leader opens the menu.**
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (159) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Gang War Registration
@@ -43,7 +43,7 @@ Gang War Registration
 {% step %}
 **Select Gang Member**
 
-<figure><img src="../../.gitbook/assets/1773288894334.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1773288894334.gif" alt=""><figcaption></figcaption></figure>
 
 <pre><code><strong>Select Gang Member List
 </strong></code></pre>
@@ -66,7 +66,7 @@ Click the **Register** button to confirm.
 
 A total of **1,000,000 Zen** is required to complete the registration.
 
-<figure><img src="../../.gitbook/assets/1773288941607.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1773288941607.gif" alt=""><figcaption></figcaption></figure>
 
 ```
 Register

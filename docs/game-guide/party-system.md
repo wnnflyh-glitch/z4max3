@@ -19,15 +19,15 @@ To create a party, players must interact with a specific NPC located in the main
 
 #### 1️⃣ **Angela Mamson ⭐**
 
-<figure><img src="../.gitbook/assets/1772600387641.gif" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1772600387641.gif" alt="" width="205"><figcaption></figcaption></figure>
 
 #### 2️⃣ **Emma Mamson**
 
-<figure><img src="../.gitbook/assets/1772600699754.gif" alt="" width="224"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1772600699754.gif" alt="" width="224"><figcaption></figcaption></figure>
 
 #### 3️⃣ **Mery Mamson**
 
-<figure><img src="../.gitbook/assets/1772600738134.gif" alt="" width="225"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1772600738134.gif" alt="" width="225"><figcaption></figcaption></figure>
 
 All three NPCs have the same functions:
 
@@ -57,7 +57,7 @@ Choose any NPC, such as:
 * Emma Mamson
 * Mery Mamson
 
-<figure><img src="../.gitbook/assets/image (125).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (125).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The NPC will open the Party System window.
 {% endstep %}
@@ -65,7 +65,7 @@ The NPC will open the Party System window.
 {% step %}
 **Step 3 – Select Form Party**
 
-<figure><img src="../.gitbook/assets/image (126).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126).png" alt="" width="290"><figcaption></figcaption></figure>
 
 The NPC will open the Party System window.
 
@@ -80,7 +80,7 @@ Players will be able to:
 {% step %}
 **Step 4 – Setting Party**
 
-<figure><img src="../.gitbook/assets/image (127).png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (127).png" alt="" width="292"><figcaption></figcaption></figure>
 
 The NPC will open the Party System window.
 
@@ -97,9 +97,9 @@ Once confirmed, the player will become the **Party Leader**.
 
 Once confirmed, the player will become the **Party Leader.**
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (128).png" alt="" width="542"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (128).png" alt="" width="542"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -109,7 +109,7 @@ Once confirmed, the player will become the **Party Leader.**
 {% step %}
 **Step 1 –** Right-Click On your Character
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 Select Form Party
 {% endstep %}
@@ -117,7 +117,7 @@ Select Form Party
 {% step %}
 **Step 2 – Setting Party**
 
-<figure><img src="../.gitbook/assets/image (131).png" alt="" width="470"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt="" width="470"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -125,9 +125,9 @@ Select Form Party
 
 After confirming, the player will become the **Party Leader.**
 
-<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (132).png" alt="" width="542"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132).png" alt="" width="542"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -138,11 +138,11 @@ Players can join a Party in two ways:
 **1. Join Party via NPC**\
 Interact with a Party NPC and select → **Join Party**
 
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (135).png" alt="" width="263"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt="" width="263"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 The system will display:
 
@@ -154,11 +154,11 @@ Players can select the Party they want to join.
 
 **2. Invitation from the Leader**
 
-<figure><img src="../.gitbook/assets/1772606433493.gif" alt="" width="359"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1772606433493.gif" alt="" width="359"><figcaption></figcaption></figure>
 
 The Party Leader can send a Party invitation.
 
-<figure><img src="../.gitbook/assets/1772606501688.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1772606501688.gif" alt=""><figcaption></figcaption></figure>
 
 Once you press Confirm, you will immediately join the team.
 
@@ -176,7 +176,7 @@ The Leader has the authority to :
 
 ### **Item Distribution System**
 
-<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 > The Party Item Distribution System determines how loot dropped from monsters or missions is allocated among party members.\
 > Party leaders can configure the distribution method before starting cooperative activities.

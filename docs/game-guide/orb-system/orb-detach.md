@@ -6,7 +6,7 @@ The **ORB Detach System** allows players to remove ORBs from Costumes or Equipme
 
 To do so, players must use a special item.
 
-<figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 ### Usage Rule
 
@@ -24,13 +24,13 @@ To do so, players must use a special item.
 
 {% stepper %}
 {% step %}
-ผู้เล่นเปิด My Room ![](<../../.gitbook/assets/image (177).png>)
+ผู้เล่นเปิด My Room ![](<../../../.gitbook/assets/image (177).png>)
 
 ```
 My Room
 ```
 
-<figure><img src="../../.gitbook/assets/12.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/12.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -44,7 +44,7 @@ ORB Detach Item
 {% step %}
 ### Step 2
 
-<figure><img src="../../.gitbook/assets/13.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/13.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 Confirm Costume Item ที่ต้องการใช้งาน
 
@@ -58,9 +58,9 @@ Unsocket ORB
 
 #### Result
 
-<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 ```
 ORB → Inventory

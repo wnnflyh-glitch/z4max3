@@ -29,7 +29,7 @@ In Death Match, the **Room Host** can customize additional gameplay rules before
 
 The Host can choose:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/1773124707050.gif" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/1773124707050.gif" alt=""><figcaption></figcaption></figure></div>
 
 | Option | Description               |
 | ------ | ------------------------- |

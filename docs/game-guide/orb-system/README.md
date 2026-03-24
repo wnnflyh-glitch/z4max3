@@ -244,7 +244,7 @@ The higher the level:
 
 **Example:**
 
-<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Yellow Orb +10

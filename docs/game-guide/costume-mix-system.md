@@ -15,7 +15,7 @@ Costume Mix enables players to transform their existing fashion items into new o
 {% step %}
 ### Step 1 – Meet Dr.K
 
-<figure><img src="../.gitbook/assets/Dr.K (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Dr.K (1) (1).gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -23,7 +23,7 @@ Costume Mix enables players to transform their existing fashion items into new o
 
 Select
 
-<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Costume Mix
@@ -49,7 +49,7 @@ Costume Cube
 {% step %}
 ### Step 4 – Activate Mix
 
-<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
 Start **Mix**
 
@@ -76,7 +76,7 @@ When the mix process is successful, the system will:
 
 If the mix fails
 
-<figure><img src="../.gitbook/assets/Costume Mix.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Costume Mix.gif" alt=""><figcaption></figcaption></figure>
 
 the result will be:
 

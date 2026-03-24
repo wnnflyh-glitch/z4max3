@@ -1,10 +1,10 @@
 # 🕹️ Basic Control
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (202) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Setting your shortcut keys (F11)**
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
 #### **Keyboard Controls** <a href="#mouse-controls" id="mouse-controls"></a>
 

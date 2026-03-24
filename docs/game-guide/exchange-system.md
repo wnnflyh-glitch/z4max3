@@ -2,7 +2,7 @@
 
 The **P2P Exchange System** allows two players to directly trade items and in-game currency (Z) with each other within the game.
 
-<figure><img src="../.gitbook/assets/1773380244444.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1773380244444.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Trade UI Components
 
@@ -18,7 +18,7 @@ The **P2P Exchange System** allows two players to directly trade items and in-ga
 
 ### Item Trading
 
-<figure><img src="../.gitbook/assets/1773380316855.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1773380316855.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 Players can register items from:
 
@@ -32,13 +32,13 @@ to
 Trade Slot
 ```
 
-<figure><img src="../.gitbook/assets/1773380358859.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1773380358859.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
 ### Zen Trading
 
-<figure><img src="../.gitbook/assets/1 (2).gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2).gif" alt="" width="563"><figcaption></figcaption></figure>
 
 Players can enter the amount of Zen.
 
@@ -52,4 +52,4 @@ to
 (Z) Zen Slot
 ```
 
-<figure><img src="../.gitbook/assets/1773381287309.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1773381287309.gif" alt="" width="563"><figcaption></figcaption></figure>

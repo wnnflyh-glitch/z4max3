@@ -16,11 +16,11 @@ and serves as one of the core mechanics of the game’s item economy.
 
 ## Crafting Categories
 
-<figure><img src="../.gitbook/assets/1773412440734.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1773412440734.gif" alt=""><figcaption></figcaption></figure>
 
 The Craft System is divided into item categories.
 
-<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 | Category   |
 | ---------- |
@@ -39,7 +39,7 @@ Players can select a category and view the list of items that can be crafted.
 {% step %}
 ### Step 1: Player Selects Item
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 **Example:**\
 Hapkido Suit
@@ -52,7 +52,7 @@ The system will load the recipe data for that item.
 
 The system retrieves recipe data from the database, such as:
 
-<figure><img src="../.gitbook/assets/image (86).png" alt="" width="308"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt="" width="308"><figcaption></figcaption></figure>
 
 * Required Materials
 * Required Currency
@@ -67,7 +67,7 @@ The system retrieves recipe data from the database, such as:
 
 Crafting in Zone4 uses a **probability-based crafting system**.
 
-<figure><img src="../.gitbook/assets/image (119).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Example:**
 
@@ -94,7 +94,7 @@ Zeed Blessing
 
 When crafting is successful:
 
-<figure><img src="../.gitbook/assets/1.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 Players will receive the item, such as:
 

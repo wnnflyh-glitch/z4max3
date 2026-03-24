@@ -6,7 +6,7 @@
 
 **Team Death Match** is a mode where players are divided into two teams.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/1773125983802.gif" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/1773125983802.gif" alt=""><figcaption></figcaption></figure></div>
 
 ```
 Red Team
@@ -57,7 +57,7 @@ Enemy Kill = +1 Team Point
 
 Example Scoreboard
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/1773126568836.gif" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/1773126568836.gif" alt="" width="563"><figcaption></figcaption></figure></div>
 
 | Team      | Score |
 | --------- | ----- |

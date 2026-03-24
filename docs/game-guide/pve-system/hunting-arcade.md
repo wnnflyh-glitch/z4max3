@@ -11,9 +11,9 @@ The purpose of this mode is to:
 * Practice combat
 * Progress through the story
 
-<figure><img src="../../.gitbook/assets/1773117950433.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1773117950433.gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (115).png" alt="" width="507"><figcaption></figcaption></figure>
 
 **Hunting Land**
 
@@ -39,7 +39,7 @@ Each area has:
 
 ## Hunting Arcade Gameplay Mechanics
 
-<figure><img src="../../.gitbook/assets/1773118419691.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1773118419691.gif" alt=""><figcaption></figcaption></figure>
 
 ## Play-time System
 
@@ -94,9 +94,9 @@ When the timer reaches **00:00**, the system will:
 
 #### Key Collection Objective
 
-<figure><img src="../../.gitbook/assets/1773119815761.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1773119815761.gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/1773118419691.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1773118419691.gif" alt=""><figcaption></figcaption></figure>
 
 ```
 Key Collected : 0 / 3
@@ -110,7 +110,7 @@ Players must:
 
 Once all keys are collected:
 
-<figure><img src="../../.gitbook/assets/1773120199596.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1773120199596.gif" alt=""><figcaption></figcaption></figure>
 
 ```
 Key Collected : 3 / 3
@@ -122,7 +122,7 @@ The Boss Gate can be unlocked (requires 3 keys).
 
 #### Boss Kill Condition <a href="#id-2.2-boss-kill-condition" id="id-2.2-boss-kill-condition"></a>
 
-<figure><img src="../../.gitbook/assets/1773120231409.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1773120231409.gif" alt=""><figcaption></figcaption></figure>
 
 **Condition 2: Boss Defeated**\
 When the boss is defeated, a message will be displayed in the in-game UI.
@@ -131,7 +131,7 @@ When the boss is defeated, a message will be displayed in the in-game UI.
 BOSS KILL 0 / 1
 ```
 
-<figure><img src="../../.gitbook/assets/1773118349943.gif" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1773118349943.gif" alt="" width="293"><figcaption></figcaption></figure>
 
 This means:
 
