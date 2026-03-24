@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🗺️ About Zone4 MAX Combo
 
 <figure><img src="../.gitbook/assets/Logo Zone4 Maxion_01_Colour (1).png" alt=""><figcaption></figcaption></figure>

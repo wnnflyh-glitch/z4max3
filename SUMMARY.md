@@ -2,7 +2,9 @@
 
 ## MAX COMBO WHITEPAPER
 
-* [About Zone4 MAX Combo](README.md)
+* [🗺️ About Zone4 MAX Combo](README.md)
+* [🤝 EXE x Max Game](max-combo-whitepaper/exe-x-max-game.md)
+* [🚶 Journey into MAX Combo](max-combo-whitepaper/journey-into-max-combo.md)
 
 ## MAIN FEATURES IN Z4MAX
 
@@ -79,20 +81,24 @@
   * [🏠 My Room](game-guide/game-guide/my-room.md)
   * [❔ Quest System](game-guide/game-guide/quest-system.md)
 
+## TOKEN ECONOMY
+
+* [💱 What is a Token Economy?](token-economy/what-is-a-token-economy.md)
+* [⚖️ Tax System](token-economy/tax-system.md)
+* [📒 CBT Manual](token-economy/cbt-manual.md)
+
+## OTHER INFORMATION
+
+* [🦾 Fixing Patcher Download Issues](other-information/fixing-patcher-download-issues.md)
+* [⬇️ How to Install](other-information/how-to-install.md)
+* [🔗 Official Links](other-information/official-links.md)
+* [🖥️ PC Specifications](other-information/pc-specifications.md)
+
 ***
 
 * [main-feature-in-z4-max](main-feature-in-z4-max.md)
 * [🗺️ About Zone4 MAX Combo](docs/README.md)
   * [Table of contents](docs/SUMMARY.md)
-  * [max-combo-white-paper](docs/max-combo-white-paper/README.md)
-    * [🤝 EXE x Max Game](docs/max-combo-white-paper/exe-x-max-game.md)
-    * [🚶 Journey into MAX Combo](docs/max-combo-white-paper/journey-into-max-combo.md)
-  * [other-information](docs/other-information/README.md)
-    * [🦾 Fixing Patcher Download Issues](docs/other-information/fixing-patcher-download-issues.md)
-    * [⬇️ How to Install](docs/other-information/how-to-install.md)
-    * [🔗 Official Links](docs/other-information/official-links.md)
-    * [🖥️ PC Specifications](docs/other-information/pc-specifications.md)
-  * [token-economy](docs/token-economy/README.md)
-    * [📒 CBT Manual](docs/token-economy/cbt-manual.md)
-    * [⚖️ Tax System](docs/token-economy/tax-system.md)
-    * [💱 What is a Token Economy?](docs/token-economy/what-is-a-token-economy.md)
+  * [max-combo-white-paper](docs/max-combo-white-paper.md)
+  * [token-economy](docs/token-economy.md)
+  * [other-information](docs/other-information.md)

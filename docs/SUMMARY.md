@@ -7,14 +7,14 @@ hidden: true
 ## MAX COMBO WHITE PAPER
 
 * [🗺️ About Zone4 MAX Combo](./)
-* [🤝 EXE x Max Game](max-combo-white-paper/exe-x-max-game.md)
-* [🚶 Journey into MAX Combo](max-combo-white-paper/journey-into-max-combo.md)
+* [🤝 EXE x Max Game](../max-combo-whitepaper/exe-x-max-game.md)
+* [🚶 Journey into MAX Combo](../max-combo-whitepaper/journey-into-max-combo.md)
 
 ## TOKEN ECONOMY
 
-* [💱 What is a Token Economy?](token-economy/what-is-a-token-economy.md)
-* [⚖️ Tax System](token-economy/tax-system.md)
-* [📒 CBT Manual](token-economy/cbt-manual.md)
+* [💱 What is a Token Economy?](../token-economy/what-is-a-token-economy.md)
+* [⚖️ Tax System](../token-economy/tax-system.md)
+* [📒 CBT Manual](../token-economy/cbt-manual.md)
 
 ## Main Feature in Z4 MAX
 
@@ -92,7 +92,7 @@ hidden: true
 
 ## OTHER INFORMATION
 
-* [🔗 Official Links](other-information/official-links.md)
-* [🖥️ PC Specifications](other-information/pc-specifications.md)
-* [🦾 Fixing Patcher Download Issues](other-information/fixing-patcher-download-issues.md)
-* [⬇️ How to Install](other-information/how-to-install.md)
+* [🔗 Official Links](../other-information/official-links.md)
+* [🖥️ PC Specifications](../other-information/pc-specifications.md)
+* [🦾 Fixing Patcher Download Issues](../other-information/fixing-patcher-download-issues.md)
+* [⬇️ How to Install](../other-information/how-to-install.md)
