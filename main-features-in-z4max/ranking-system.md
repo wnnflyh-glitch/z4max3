@@ -145,10 +145,11 @@ The system awards **KOC Points** based on individual performance ranking (1st–
 
 **Loser**
 
-ทีมแพ้ – Lose Rank → Point/Round
+Lose Team – Lose Rank → Point/Round
 
-| คะแนน | 5 | 4 | 2 | 1 | −1 | −2 | −4 | −5 |
-| ----- | - | - | - | - | -- | -- | -- | -- |
+| Rank   | 1 | 2 | 3 | 4 | 5  | 6  | 7  | 8  |
+| ------ | - | - | - | - | -- | -- | -- | -- |
+| Points | 5 | 4 | 2 | 1 | −1 | −2 | −4 | −5 |
 
 **Explanation:**\
 Even if your team loses, high individual performance (ranked 1st–2nd) will still grant a small amount of positive points. Lower-ranked players on the losing team will lose points to discourage quitting or AFK behavior.
