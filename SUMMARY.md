@@ -1,6 +1,12 @@
 # Table of contents
 
-* [Zone4 MAX Combo](README.md)
+## MAX COMBO WHITEPAPER
+
+* [About Zone4 MAX Combo](README.md)
+
+***
+
+* [Zone4 MAX Combo](<README (1).md>)
 * [🗺️ About Zone4 MAX Combo](docs/README.md)
   * [Table of contents](docs/SUMMARY.md)
   * [game-guide](docs/game-guide/README.md)
@@ -85,6 +91,3 @@
     * [📒 CBT Manual](docs/token-economy/cbt-manual.md)
     * [⚖️ Tax System](docs/token-economy/tax-system.md)
     * [💱 What is a Token Economy?](docs/token-economy/what-is-a-token-economy.md)
-  * [.gitbook](docs/.gitbook/README.md)
-    * [includes](docs/.gitbook/includes/README.md)
-      * [การขอรับ USDC สามารถรับได้แ...](docs/.gitbook/includes/usdc-....md)
