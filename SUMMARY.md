@@ -41,7 +41,7 @@
 * [🤼 Class System](game-guide/class-system/README.md)
   * [Special Class](game-guide/class-system/special-class.md)
   * [Rush Class](game-guide/class-system/rush-class/README.md)
-    * [Copy of Copy of Pro Wrestling](game-guide/class-system/rush-class/copy-of-copy-of-pro-wrestling.md)
+    * [Sambo](game-guide/class-system/rush-class/copy-of-copy-of-pro-wrestling.md)
     * [Hapkido](game-guide/class-system/rush-class/hapkido.md)
     * [Judo](game-guide/class-system/rush-class/judo.md)
     * [Pro Wrestling](game-guide/class-system/rush-class/pro-wrestling.md)
