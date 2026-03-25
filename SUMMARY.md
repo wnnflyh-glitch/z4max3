@@ -49,7 +49,7 @@
     * [Judo](game-guide/class-system/rush-class/judo.md)
     * [Pro Wrestling](game-guide/class-system/rush-class/pro-wrestling.md)
     * [Hapkido](game-guide/class-system/rush-class/hapkido.md)
-    * [Sambo](game-guide/class-system/rush-class/copy-of-copy-of-pro-wrestling.md)
+    * [Sambo (Edit)](game-guide/class-system/rush-class/copy-of-copy-of-pro-wrestling.md)
   * [Special Class](game-guide/class-system/special-class.md)
 * [⚪ ORB System](game-guide/orb-system/README.md)
   * [ORB Attach](game-guide/orb-system/orb-attach.md)
