@@ -56,7 +56,7 @@ The lower Energy cost encourages players to engage in PvP more frequently.
 
 ## Max Stamina System
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (108).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The maximum amount of Stamina a player can have each day depends on their character’s level. As players level up:
 
@@ -108,8 +108,11 @@ Energy can also be obtained from special in-game events, such as:
 
 #### **Stamina Item List** <a href="#stamina-item" id="stamina-item"></a>
 
-<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+
+ddddd
+
